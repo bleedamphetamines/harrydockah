@@ -1,0 +1,4 @@
+application:
+  name: xman
+  version: 1.0
+  environment: production
