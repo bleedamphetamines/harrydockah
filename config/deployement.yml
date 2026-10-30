@@ -1,3 +1,0 @@
-services:
-  forgotten-app:
-    image: ghcr.io/bleedamphetamines/harrydockah@sha256:115bd216c5439add0f20498309a86a6a8edd80fbc13ac047bccd529a30019198
